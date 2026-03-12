@@ -1,6 +1,9 @@
-# Arabic GPT from Scratch
+# Arabic GPT from Scratch 
 
 A GPT language model built entirely from scratch using PyTorch for Arabic poetry generation. No pretrained weights used.
+
+## Demo
+[Watch the full demo on YouTube](https://youtu.be/Hd7-H19IgsU)
 
 ## Model
 - **Parameters:** 22,960,128 (~23M)
