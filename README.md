@@ -5,6 +5,11 @@ A GPT language model built entirely from scratch using PyTorch for Arabic poetry
 ## Demo
 [Watch the full demo on YouTube](https://youtu.be/Hd7-H19IgsU)
 
+##Dateset
+**Pretraining:** Arabic Wikipedia XML dump — [download here](https://dumps.wikimedia.org/arwiki/)
+**Fine-Tuning:** Ashaar Poetry Dataset — [HuggingFace](https://huggingface.co/datasets/arbml/ashaar)
+  
+
 ## Model
 - **Parameters:** 22,960,128 (~23M)
 - **Architecture:** Decoder-Only Transformer (GPT-style)
